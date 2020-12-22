@@ -1,0 +1,17 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "mern backend tinder clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Will Wang",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8"
+  }
+}
